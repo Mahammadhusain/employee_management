@@ -7,12 +7,12 @@ This project provides a robust Employee Management API implemented using Django 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/<repository-name>.git
+    git clone https://github.com/Mahammadhusain/employee_management.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <repository-name>
+    cd employee_management
     ```
 3. Create Virtual environment and activate it:
   
