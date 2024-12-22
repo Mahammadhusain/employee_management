@@ -3,7 +3,7 @@
 ## Overview
 This project provides a robust Employee Management API implemented using Django REST Framework (DRF). It supports role-based access control with Super Admin and Admin roles, ensuring secure and organized user management. The API includes CRUD operations, custom responses, filtering, pagination, and conditional permissions.
 
-### Note - Make sure setup first valid SMTP Crediantials for Welcome email otherviseemail sending functionality will not working
+### Note - Make sure setup first valid SMTP Credentials for Welcome email otherwise email sending functionality will not working
 
 ## Installation
 
